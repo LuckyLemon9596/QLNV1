@@ -1,0 +1,3 @@
+function DanhSachKhoaHoc(){
+    this.DSKH = [];
+}
